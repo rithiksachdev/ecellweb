@@ -1,7 +1,13 @@
-# E-Cell SGSITS website - ecellsgsits.in
-https://arcane-brook-75604.herokuapp.com/
+# E-Cell SGSITS website - www.ecellsgsits.in
 
-This is a temporary link to the website. You'll need access to contribute using your heroku id. Drop me a mail or find me at rithiksachdev.github.io to get access rights. Open new issues if you find and make changes after cloning using heroku cli. 
+E-Cell S.G.S.I.T.S., Indore officially began on 17 March 2015. The Entrepreneurship Cell is a non-profit organization run by students of SGSITS with the aim of manifesting entrepreneurship spirit of young students. We at E-Cell host various workshops, speaker sessions, innovative games, competitions for aspiring entrepreneurs and support them by providing necessary resources such as seed funding, mentoring, consultancy and networking.
 
+E-Cell's official website has been hosted a while ago. 
+All the enthusiasts who are willing to contribute to the site can resolve the prevailing issues in the site,or find new issues and provide a solution.
+
+All the issues have been clearly described on the following link-
+https://github.com/rithiksachdev/ecellweb/issues
+
+You can read Contribute.md for further details.
 
 
