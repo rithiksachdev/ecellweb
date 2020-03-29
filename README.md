@@ -8,6 +8,6 @@ All the enthusiasts who are willing to contribute to the site can resolve the pr
 All the issues have been clearly described on the following link-
 https://github.com/rithiksachdev/ecellweb/issues
 
-You can read Contribute.md for further details.
+You can read [contribute.md](https://github.com/rithiksachdev/ecellweb/blob/master/contribute.md) for further details.
 
 
