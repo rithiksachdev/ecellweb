@@ -1,4 +1,4 @@
-Gain collaboration access on heroku 
+Download Heroku CLI and Gain collaboration access on heroku 
 
 1. Clone into the repo<br>
 2. Make changes
