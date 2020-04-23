@@ -1,6 +1,6 @@
 Download Heroku CLI,Node.js,NPM and Gain collaboration access on Heroku
 
-1. Clone into the repo<br>
+1. ```heroku git:clone -a pure-cove-11234```
 2. ```npm install```
 3. Make changes
 4. ```git add .```
